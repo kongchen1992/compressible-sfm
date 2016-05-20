@@ -1,8 +1,11 @@
 # Prior-less Compressible Structure from Motion
 ## Information
 This is the release of the Prior-less Compressible Structure from Motion, described in the paper http://ci2cv.net/media/papers/Chen-CVPR-2016.pdf.
-Project webpage: http://www.cs.cmu.edu/~chenk/projects/cvpr\_2016.html
-Code git: git@github.com:kongchen1992/compressible-sfm.git
+
+Project webpage: http://www.cs.cmu.edu/~chenk/projects/cvpr\_2016.html.
+
+Code git: git@github.com:kongchen1992/compressible-sfm.git.
+
 For questions concerning the code please contact Chen Kong at <chenk@cs.cmu.edu> and Simon Lucey <slucey@cs.cmu.edu>.
 The code was developed when Chen Kong and Simon Lucey were at Carnegie Mellon University.
 
