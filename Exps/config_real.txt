@@ -1,0 +1,22 @@
+# This configuration file offers the configuration of data used from CMU Motion Caption.
+# The format below is subject-sequence-sampleFrequency.
+#
+# Sequence 1
+5-4-1000
+5-5-1000
+5-6-1000
+#
+# Sequence 2
+1-2-1000
+2-5-1000
+1-4-1000
+#
+# Sequence 3
+3-3-1000
+3-4-1000
+6-13-1000
+#
+# Sequence 4
+5-6-1800
+5-7-1800
+5-8-1800
